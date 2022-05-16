@@ -25,7 +25,6 @@ This repo contains/links to various RStudio demo apps for various applications. 
 | R        | Vetiver            | <https://github.com/tidymodels/vetiver-r>                                                 |
 | R        | Connect Widgets    | <https://rstudio.github.io/connectwidgets/>                                               |
 | R        | Tables             | <https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html> |
-| R        |                    | \<\>                                                                                      |
 | R/Quarto | Quarto             | <https://quarto.org/docs/gallery/>                                                        |
 | Python   | Streamlit          | <https://streamlit.io/gallery>                                                            |
 | Python   | DASH               | <https://dash.gallery/Portal/>                                                            |
@@ -34,4 +33,3 @@ This repo contains/links to various RStudio demo apps for various applications. 
 | Python   | Flask              | <https://devpost.com/software/built-with/flask>                                           |
 | Python   | Pins               | <https://pypi.org/project/pins/>                                                          |
 | Python   | Vetiver            | <https://pypi.org/project/vetiver/>                                                       |
-| Python   |                    | \<\>                                                                                      |
