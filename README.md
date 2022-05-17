@@ -5,14 +5,14 @@ This repo contains/links to various RStudio demo apps for various applications. 
 ## Deployments
 
 | Type | Content   | Code                                                                                     | Deployment                                                                      |
-|------------------|------------------|------------------|-------------------|
+|------|-----------|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | R    | Shiny     |                                                                                          |                                                                                 |
 | R    | RMarkdown | <https://github.com/leesahanders/RStudio_Test_Apps/blob/main/RMarkdown/water_plants.Rmd> | <https://colorado.rstudio.com/rsc/content/7f2fd199-c29c-499a-8980-cc55499a6b89> |
 
 ## Galleries / References
 
 | Type     | Content            | Link                                                                                      |
-|------------------|---------------------------------|---------------------|
+|----------|--------------------|-------------------------------------------------------------------------------------------|
 | R        | Shiny              | <http://shiny.rstudio-staging.com/gallery/>                                               |
 | R        | Shiny Widgets      | <https://shiny.rstudio.com/gallery/widget-gallery.html>                                   |
 | R        | Shiny Dashboard    | <https://rstudio.github.io/shinydashboard/examples.html>                                  |
@@ -33,3 +33,9 @@ This repo contains/links to various RStudio demo apps for various applications. 
 | Python   | Flask              | <https://devpost.com/software/built-with/flask>                                           |
 | Python   | Pins               | <https://pypi.org/project/pins/>                                                          |
 | Python   | Vetiver            | <https://pypi.org/project/vetiver/>                                                       |
+
+## Deployment References
+
+| Type   | Content   | Link                                                                                                     |
+|--------|-----------|----------------------------------------------------------------------------------------------------------|
+| Python | Streamlit | <https://www.r-bloggers.com/2022/02/streamlit-tutorial-how-to-deploy-streamlit-apps-on-rstudio-connect/> |
