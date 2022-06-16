@@ -1,11 +1,11 @@
 # RStudio Test Apps
 
-This repo contains/links to various RStudio demo apps for various applications. Huge shoutout to Sam Edwardes and the [demo page](https://github.com/SamEdwardes/rstudio-demos) he's been compiling.
+This repo contains/links to various RStudio demo apps for various applications. Huge shoutout to Sam Edwardes and the [demo page](https://github.com/SamEdwardes/rstudio-demos) he's been compiling and Trever Nederlof and the [demo page](https://colorado.rstudio.com/rsc/tn-demo-content/) he's been working on ([code](https://github.com/tnederlof/rstudio-demo-content))
 
 ## Deployments
 
 | Type | Content                       | Mine?                | Code                                                                                     | Deployment                                                                                    | Notes                                                                                                                                                                               |
-|-------|----------|-------|-----------------------|-----------------------|------------|
+|------------|------------|------------|--------------|--------------|------------|
 | R    | Shiny                         | Based on others code | <https://github.com/leesahanders/shiny_file_download>                                    | <https://colorado.rstudio.com/rsc/connect/#/apps/d3accc20-e6e4-445a-b4f0-1853f5f0be96/access> | Super basic app for downloading files - good for showing one button publishing, publishing from git, publishing from workbench, programmatic deploying, includes manifest.json file |
 | R    | RMarkdown                     | Yes                  | <https://github.com/leesahanders/RStudio_Test_Apps/blob/main/RMarkdown/water_plants.Rmd> | <https://colorado.rstudio.com/rsc/content/7f2fd199-c29c-499a-8980-cc55499a6b89>               | Simple RMarkdown good for showing document deployment and blastula for emails                                                                                                       |
 | R    | Shiny                         | No (Mark's)          | <https://github.com/sellorm/bass_model.git>                                              |                                                                                               | Tricky stringi and Rcpp errors                                                                                                                                                      |
@@ -18,7 +18,7 @@ This repo contains/links to various RStudio demo apps for various applications. 
 ## Galleries / References
 
 | Type     | Content            | Link                                                                                      |
-|-------------|-------------|-----------------------------------------------|
+|---------------|---------------|------------------------------------------|
 | R        | Shiny              | <http://shiny.rstudio-staging.com/gallery/>                                               |
 | R        | Shiny Widgets      | <https://shiny.rstudio.com/gallery/widget-gallery.html>                                   |
 | R        | Shiny Dashboard    | <https://rstudio.github.io/shinydashboard/examples.html>                                  |
@@ -43,5 +43,5 @@ This repo contains/links to various RStudio demo apps for various applications. 
 ## Deployment References
 
 | Type   | Content   | Link                                                                                                     |
-|-----------|-----------|---------------------------------------------------|
+|--------------|--------------|--------------------------------------------|
 | Python | Streamlit | <https://www.r-bloggers.com/2022/02/streamlit-tutorial-how-to-deploy-streamlit-apps-on-rstudio-connect/> |
