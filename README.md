@@ -4,15 +4,21 @@ This repo contains/links to various RStudio demo apps for various applications. 
 
 ## Deployments
 
-| Type | Content   | Code                                                                                     | Deployment                                                                      |
-|------|-----------|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| R    | Shiny     |                                                                                          |                                                                                 |
-| R    | RMarkdown | <https://github.com/leesahanders/RStudio_Test_Apps/blob/main/RMarkdown/water_plants.Rmd> | <https://colorado.rstudio.com/rsc/content/7f2fd199-c29c-499a-8980-cc55499a6b89> |
+| Type | Content                       | Mine?                | Code                                                                                     | Deployment                                                                                    | Notes                                                                                                                                                                               |
+|-------|----------|-------|-----------------------|-----------------------|------------|
+| R    | Shiny                         | Based on others code | <https://github.com/leesahanders/shiny_file_download>                                    | <https://colorado.rstudio.com/rsc/connect/#/apps/d3accc20-e6e4-445a-b4f0-1853f5f0be96/access> | Super basic app for downloading files - good for showing one button publishing, publishing from git, publishing from workbench, programmatic deploying, includes manifest.json file |
+| R    | RMarkdown                     | Yes                  | <https://github.com/leesahanders/RStudio_Test_Apps/blob/main/RMarkdown/water_plants.Rmd> | <https://colorado.rstudio.com/rsc/content/7f2fd199-c29c-499a-8980-cc55499a6b89>               | Simple RMarkdown good for showing document deployment and blastula for emails                                                                                                       |
+| R    | Shiny                         | No (Mark's)          | <https://github.com/sellorm/bass_model.git>                                              |                                                                                               | Tricky stringi and Rcpp errors                                                                                                                                                      |
+| R    | Quarto + Pins                 | Yes                  | <https://github.com/leesahanders/quarto_pins_lyme_dataset>                               |                                                                                               | Future work having Quarto pull from the pinned dataset - currently separate examples                                                                                                |
+| R    | Shiny App with Github Actions | Based on others code | <https://github.com/leesahanders/learn_shinytest2_LisaBranch>                            | <https://colorado.rstudio.com/rsc/connect/#/apps/fea06580-a316-48d2-9846-65662b3509df/access> | Demonstration of GIthub Actions (would need server url updated)                                                                                                                     |
+|      |                               |                      |                                                                                          |                                                                                               |                                                                                                                                                                                     |
+|      |                               |                      |                                                                                          |                                                                                               |                                                                                                                                                                                     |
+|      |                               |                      |                                                                                          |                                                                                               |                                                                                                                                                                                     |
 
 ## Galleries / References
 
 | Type     | Content            | Link                                                                                      |
-|----------|--------------------|-------------------------------------------------------------------------------------------|
+|-------------|-------------|-----------------------------------------------|
 | R        | Shiny              | <http://shiny.rstudio-staging.com/gallery/>                                               |
 | R        | Shiny Widgets      | <https://shiny.rstudio.com/gallery/widget-gallery.html>                                   |
 | R        | Shiny Dashboard    | <https://rstudio.github.io/shinydashboard/examples.html>                                  |
@@ -37,5 +43,5 @@ This repo contains/links to various RStudio demo apps for various applications. 
 ## Deployment References
 
 | Type   | Content   | Link                                                                                                     |
-|--------|-----------|----------------------------------------------------------------------------------------------------------|
+|-----------|-----------|---------------------------------------------------|
 | Python | Streamlit | <https://www.r-bloggers.com/2022/02/streamlit-tutorial-how-to-deploy-streamlit-apps-on-rstudio-connect/> |
